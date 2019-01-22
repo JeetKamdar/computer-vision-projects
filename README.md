@@ -12,6 +12,5 @@ To run the Canny Edge Detector project, use:
    ``` python project1_canny.py “image-path” ```
 
 
-To run the face detection project, use:
-
+To run the face detection project, use:  
 python face_detection.py “Image_directory_location”
